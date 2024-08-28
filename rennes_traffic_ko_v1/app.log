@@ -1,0 +1,56 @@
+2024-08-27 10:09:10,229 - ERROR - Failed to retrieve data: Expecting ',' delimiter: line 1 column 194857 (char 194856)
+2024-08-27 10:51:04,124 - INFO - Data retrieved successfully
+2024-08-27 10:51:04,207 - INFO - Model loaded successfully
+2024-08-27 10:52:02,263 - INFO - Data retrieved successfully
+2024-08-27 10:52:02,347 - INFO - Model loaded successfully
+2024-08-27 11:03:28,767 - INFO - Data retrieved successfully
+2024-08-27 11:03:28,847 - INFO - Model loaded successfully
+2024-08-27 11:03:37,978 - INFO - Data retrieved successfully
+2024-08-27 11:03:38,052 - INFO - Model loaded successfully
+2024-08-27 11:03:43,713 - INFO - Selected hour for prediction: 13
+2024-08-27 11:04:51,445 - INFO - Data retrieved successfully
+2024-08-27 11:04:51,530 - INFO - Model loaded successfully
+2024-08-27 11:07:52,557 - INFO - Data retrieved successfully
+2024-08-27 11:07:52,653 - INFO - Model loaded successfully
+2024-08-27 11:08:09,506 - INFO - Data retrieved successfully
+2024-08-27 11:08:09,597 - INFO - Model loaded successfully
+2024-08-27 11:08:15,272 - INFO - Selected hour for prediction: 13
+2024-08-27 11:08:29,441 - INFO - Data retrieved successfully
+2024-08-27 11:08:29,524 - INFO - Model loaded successfully
+2024-08-27 11:08:49,033 - INFO - Data retrieved successfully
+2024-08-27 11:08:49,110 - INFO - Model loaded successfully
+2024-08-27 11:10:46,603 - INFO - Data retrieved successfully
+2024-08-27 11:10:46,680 - INFO - Model loaded successfully
+2024-08-27 11:11:30,370 - INFO - Data retrieved successfully
+2024-08-27 11:11:30,452 - INFO - Model loaded successfully
+2024-08-27 11:11:31,247 - INFO - Selected hour for prediction: 13
+2024-08-27 11:13:04,369 - INFO - Data retrieved successfully
+2024-08-27 11:13:04,444 - INFO - Model loaded successfully
+2024-08-27 11:15:42,064 - INFO - Data retrieved successfully
+2024-08-27 11:15:42,145 - INFO - Model loaded successfully
+2024-08-27 11:15:43,203 - INFO - Selected hour for prediction: 13
+2024-08-27 11:17:52,527 - INFO - Data retrieved successfully
+2024-08-27 11:17:52,606 - INFO - Model loaded successfully
+2024-08-27 11:19:41,180 - INFO - Data retrieved successfully
+2024-08-27 11:19:41,258 - INFO - Model loaded successfully
+2024-08-27 11:19:41,989 - INFO - Selected hour for prediction: 0
+2024-08-27 11:20:55,588 - INFO - Data retrieved successfully
+2024-08-27 11:20:55,672 - INFO - Model loaded successfully
+2024-08-27 11:21:09,120 - INFO - Selected hour for prediction: 0
+2024-08-27 11:23:31,446 - INFO - Data retrieved successfully
+2024-08-27 11:23:31,526 - INFO - Model loaded successfully
+2024-08-27 11:24:46,412 - INFO - Data retrieved successfully
+2024-08-27 11:24:46,496 - INFO - Model loaded successfully
+2024-08-27 11:25:03,877 - INFO - Selected hour for prediction: 0
+2024-08-27 11:26:06,584 - INFO - Data retrieved successfully
+2024-08-27 11:26:06,666 - INFO - Model loaded successfully
+2024-08-27 11:26:43,144 - INFO - Data retrieved successfully
+2024-08-27 11:26:43,225 - INFO - Model loaded successfully
+2024-08-27 11:26:51,881 - INFO - Data retrieved successfully
+2024-08-27 11:26:51,959 - INFO - Model loaded successfully
+2024-08-27 11:27:07,072 - INFO - Selected hour for prediction: 6
+2024-08-27 11:33:26,801 - INFO - Data retrieved successfully
+2024-08-27 11:33:26,882 - INFO - Model loaded successfully
+2024-08-28 10:51:44,297 - ERROR - Failed to load model: name 'load_model' is not defined
+2024-08-28 10:51:51,101 - ERROR - Failed to load model: name 'load_model' is not defined
+2024-08-28 10:52:39,303 - ERROR - Exception occurred: unhashable type: 'dict'
