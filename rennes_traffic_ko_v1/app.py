@@ -1,8 +1,4 @@
 from flask import Flask, render_template, request
-import plotly.express as px
-import numpy as np
-import logging
-from logging.handlers import RotatingFileHandler
 from keras.models import load_model
 import flask_monitoringdashboard as dashboard
 from src.get_data import GetData
